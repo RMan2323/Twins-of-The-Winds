@@ -1,8 +1,8 @@
-**TWINS OF THE WINDS - COSMIC ENERGIES**
+# **TWINS OF THE WINDS - COSMIC ENERGIES**
 
 This Repository consists of all necessary codes and final prediction files.
 
-**Detailed description of files**
+## **Detailed description of files**
 
 **initial Processing.ipynb** consists of initial sorting of day, month, year into dd/mm/yyyy format.
 
@@ -16,7 +16,7 @@ This Repository consists of all necessary codes and final prediction files.
 
 Please check releases for all required files.
 
-**TEAM MEMBERS:**
+## **TEAM MEMBERS:**
 
 Yashaswini L.
 
