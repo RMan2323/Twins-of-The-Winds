@@ -4,6 +4,8 @@ This Repository consists of all necessary codes and final prediction files.
 
 ## **Detailed description of files**
 
+(Please check releases for all required files.)
+
 **initial Processing.ipynb** consists of initial sorting of day, month, year into dd/mm/yyyy format.
 
 **evaluate_new3_prediction.csv** and **data1997_1998_prediction.csv** contain the final predictions.
@@ -13,8 +15,6 @@ This Repository consists of all necessary codes and final prediction files.
 **process_train_file.ipynb** and **process of data_1997_1998.ipynb** consists of code used to process and fill NaN values of the files.
 
 **training_testing.ipynb** is the final code file which is used to train the model and generate predictions.
-
-Please check releases for all required files.
 
 ## **TEAM MEMBERS:**
 
