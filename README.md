@@ -19,5 +19,4 @@ Report and Contribution file is Feeded in RELEASES right side as in the image be
 ![image](https://github.com/RMan2323/Twins-of-The-Winds/assets/171505330/1dcb15a9-250a-4f57-bfcf-c0e4adf41408)
 
 TEAM MEMBERS : 
-YASHASWINI.L
-RAGHUVEER VERMA
+YASHASWINI.L and RAGHUVEER VERMA
