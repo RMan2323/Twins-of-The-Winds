@@ -6,6 +6,8 @@ This Repository consists of all necessary codes and final prediction files.
 
 (Please check releases for all required files.)
 
+**AI and SDS_Project Report and Contribution File** consists of reporting of our ideas , thoughts and contributions.
+
 **initial Processing.ipynb** consists of initial sorting of day, month, year into dd/mm/yyyy format.
 
 **evaluate_new3_prediction.csv** and **data1997_1998_prediction.csv** contain the final predictions.
