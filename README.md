@@ -18,6 +18,6 @@ This Repository consists of all necessary codes and final prediction files.
 
 ## **TEAM MEMBERS:**
 
-Yashaswini L.
+Yashaswini L
 
 Raghuveer Verma
